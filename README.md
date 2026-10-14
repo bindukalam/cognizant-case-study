@@ -1,7 +1,6 @@
 # Cognizant: Fintech Payments & Wallet Platform (Case Study)
 
 > **Role:** Software Engineer · **Period:** Jan 2021 – Aug 2022 · **Location:** India
-> **Note:** This is a high-level, sanitized case study. It contains no proprietary code or client data.
 
 ## Overview
 
